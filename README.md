@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi! 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/sophiaks/sophiaks/readme_header.png "Header")](https://some-url.dev/)
 
-<!--
-**sophiaks/SophiaKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/Linguagem-Python-informational?style=flat&logo=python&logoColor=white&color=79DAFA)
+![](https://img.shields.io/badge/Linguagem-Java-informational?style=flat&logo=java&logoColor=white&color=79DAFA)
+![](https://img.shields.io/badge/Linguagem-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=79DAFA)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=79DAFA)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Stats da Sophia](https://github-readme-stats.vercel.app/api?username=sophiaks&count_private=true&show_icons=true&theme=dracula)](https://github.com/sophiaks/github-readme-stats)
+
+<a href="https://github.com/sophiaks/TechWeb_Projeto1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=TechWeb_Projeto1" />
+</a>
+
+<a href="https://github.com/sophiaks/CamadaFisica">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=CamadaFisica" />
+</a>
