@@ -1,5 +1,7 @@
-<strong align="center"> Oi! 👋 </strong>
+<strong>
+<p align="center"> Oi! 👋 </p>
 <p align="center">Meu nome é Sophia Kerber</p>
+</strong>
 ### Engenharia de Computação 💻
 
 ![](https://img.shields.io/badge/Linguagem-Python-informational?style=flat&logo=python&logoColor=white&color=79DAFA)
