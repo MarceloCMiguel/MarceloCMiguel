@@ -1,7 +1,13 @@
 <strong>
-<h1 align="center"> Oi! 👋 </h1>
-<h2 align="center">Meu nome é Sophia Kerber</h2>
+<h1 align="center"> Oi! Meu nome é Sophia Kerber 👋 </h1>
+<h3 align="center"> Estudo engenharia de computação no Insper </h3>
 </strong>
+
+<ul>
+  <li>🤖 Me interesso muito por <strong>ROBÓTICA</strong> e <strong>MACHINE LEARNING</strong></li>
+  <li>🧠 Atualmente estou aprendendo MQL5, comunicação por portas seriais, e tecnologias web</li>
+  <li>:coffee: Curiosidade: não vivo sem café...</li>
+</ul>
 
 <br />
 
@@ -22,5 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=CamadaFisica" />
 </a>
 
+<br />
+<br />
 
 [![Stats da Sophia](https://github-readme-stats.vercel.app/api?username=sophiaks&count_private=true&show_icons=true&theme=dracula)](https://github.com/sophiaks/github-readme-stats)
