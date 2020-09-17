@@ -20,7 +20,7 @@
 
 <ul>
   <li>🤖 Me interesso muito por <strong>ROBÓTICA</strong> e <strong>MACHINE LEARNING</strong></li>
-  <li>🧠 Atualmente estou aprendendo MQL5 e React</li>
+  <li>🧠 Atualmente estou aprendendo MQL5</li>
   <li>:coffee: Não vivo sem café...</li>
 </ul>
 
