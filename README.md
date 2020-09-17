@@ -10,6 +10,7 @@
 </ul>
 
 <br />
+<br />
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=79DAFA)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=79DAFA)
@@ -18,6 +19,7 @@
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=79DAFA)
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=79DAFA)
 
+<br />
 <br />
 
 <a href="https://github.com/sophiaks/TechWeb_Projeto1">
@@ -31,4 +33,4 @@
 <br />
 <br />
 
-[![Stats da Sophia](https://github-readme-stats.vercel.app/api?username=sophiaks&count_private=true&show_icons=true&theme=dracula)](https://github.com/sophiaks/github-readme-stats)
+[![Stats da Sophia](https://github-readme-stats.vercel.app/api?username=sophiaks&count_private=true&show_icons=true&theme=dracula)](https://github.com/sophiaks/sophiaks)
