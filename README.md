@@ -1,5 +1,6 @@
-### Oi! 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/sophiaks/sophiaks/readme_header.png "Header")](https://some-url.dev/)
+<strong align="center"> Oi! 👋 </strong>
+<p align="center">Meu nome é Sophia Kerber</p>
+### Engenharia de Computação 💻
 
 ![](https://img.shields.io/badge/Linguagem-Python-informational?style=flat&logo=python&logoColor=white&color=79DAFA)
 ![](https://img.shields.io/badge/Linguagem-Java-informational?style=flat&logo=java&logoColor=white&color=79DAFA)
