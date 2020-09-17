@@ -22,12 +22,24 @@
 <br />
 <br />
 
+### Projetos em desenvolvimento
+
 <a href="https://github.com/sophiaks/TechWeb_Projeto1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=TechWeb_Projeto1" />
 </a>
 
 <a href="https://github.com/sophiaks/CamadaFisica">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=CamadaFisica" />
+</a>
+
+### Projetos que dão muito orgulho
+
+<a href="https://github.com/sophiaks/P1_Rob">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=P1_Rob" />
+</a>
+
+<a href="https://github.com/sophiaks/PROJETO-2-CD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=PROJETO-2-CD" />
 </a>
 
 <br />
