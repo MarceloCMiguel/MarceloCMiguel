@@ -18,12 +18,6 @@
   <li>:coffee: Curiosidade: não vivo sem café...</li>
 </ul>
 
-<br />
-
-
-
-<br />
-
 ### Projetos em desenvolvimento
 
 <a href="https://github.com/sophiaks/TechWeb_Projeto1">
@@ -44,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=PROJETO-2-CD" />
 </a>
 
-
+<br />
 <br />
 <br />
 
