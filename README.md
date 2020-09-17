@@ -1,6 +1,6 @@
 <strong>
 <h1 align="center"> Oi! Meu nome é Sophia Kerber 👋 </h1>
-<h3 align="center"> Estudo engenharia de computação no Insper </h3>
+<h3 align="center"> Estudo engenharia de computação</h3>
 </strong>
 <br />
 
