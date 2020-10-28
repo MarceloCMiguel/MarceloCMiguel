@@ -26,8 +26,8 @@
 
 ### Projetos em desenvolvimento
 
-<a href="https://github.com/sophiaks/TechWeb_Projeto1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=TechWeb_Projeto1" />
+<a href="https://github.com/sophiaks/CRUD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=CRUD" />
 </a>
 
 <a href="https://github.com/sophiaks/CamadaFisica">
