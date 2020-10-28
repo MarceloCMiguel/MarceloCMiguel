@@ -26,12 +26,12 @@
 
 ### Projetos em desenvolvimento
 
-<a href="https://github.com/sophiaks/CRUD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=CRUD" />
+<a href="https://github.com/sophiaks/Audio_Fourier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=Audio_Fourier" />
 </a>
 
-<a href="https://github.com/sophiaks/Protocolo-UART">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=Protocolo-UART" />
+<a href="https://github.com/sophiaks/MERN_Stack_Geo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=MERN_Stack_Geo" />
 </a>
 
 ### Projetos que dão muito orgulho
@@ -42,6 +42,10 @@
 
 <a href="https://github.com/sophiaks/Naive-Bayes-Classifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=Naive-Bayes-Classifier" />
+</a>
+
+<a href="https://github.com/sophiaks/Protocolo-UART">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=Protocolo-UART" />
 </a>
 
 <br />
