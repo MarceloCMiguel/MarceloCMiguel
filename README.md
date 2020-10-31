@@ -26,8 +26,8 @@
 
 ### Projetos em desenvolvimento
 
-<a href="https://github.com/sophiaks/Audio_Fourier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=Audio_Fourier" />
+<a href="https://github.com/sophiaks/DTMF_Fourier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=DTMF_Fourier" />
 </a>
 
 <a href="https://github.com/sophiaks/MERN_Stack_Geo">
