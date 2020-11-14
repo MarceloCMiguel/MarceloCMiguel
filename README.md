@@ -26,11 +26,11 @@
 
 ### Projetos em desenvolvimento
 
-<a href="https://github.com/sophiaks/DTMF_Fourier">
+<a href="https://github.com/sophiaks/AM_Amplitude_Modulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=DTMF_Fourier" />
 </a>
 
-<a href="https://github.com/sophiaks/MERN_Stack_Geo">
+<a href="https://github.com/sophiaks/GeoYamaRealOficial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=MERN_Stack_Geo" />
 </a>
 
