@@ -26,7 +26,9 @@
 
 ### Projetos em desenvolvimento
 
-<h3>Não tenho repositórios públicos... Mas são projetos em C :)<h3>
+<br />
+<h4>Não tenho repositórios públicos... Mas são projetos em C :)<h4>
+<br />
 
 ### Projetos que dão muito orgulho
 
