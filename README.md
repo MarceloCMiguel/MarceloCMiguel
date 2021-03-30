@@ -19,20 +19,14 @@
 
 
 <ul>
-  <li>🤖 Me interesso muito por <strong>ROBÓTICA</strong> e <strong>MACHINE LEARNING</strong></li>
-  <li>🧠 Atualmente estou aprendendo MQL5</li>
+  <li>🤖 Me interesso muito por <strong>ROBÓTICA</strong></li>
+  <li>🧠 Atualmente estou aprendendo C e low-code</li>
   <li>:coffee: Não vivo sem café...</li>
 </ul>
 
 ### Projetos em desenvolvimento
 
-<a href="https://github.com/sophiaks/AM_Amplitude_Modulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=DTMF_Fourier" />
-</a>
-
-<a href="https://github.com/sophiaks/GeoYamaRealOficial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=MERN_Stack_Geo" />
-</a>
+<h3>Não tenho repositórios públicos... Mas são projetos em C :)<h3>
 
 ### Projetos que dão muito orgulho
 
