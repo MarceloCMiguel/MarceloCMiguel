@@ -14,10 +14,10 @@ Mileage</a>.</h3>
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1003DD)
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=42759C)
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
-![](https://img.shields.io/badge/-Gatsby-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
+![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ros&logoColor=white&color=DD6800)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=DD6800)
+![](https://img.shields.io/badge/-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=DD6800)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=DD6800)
 
 
 
