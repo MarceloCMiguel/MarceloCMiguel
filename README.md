@@ -30,7 +30,7 @@ Mileage</a>.</h3>
 </ul>
 
 ### Projetos do Mileage em desenvolvimento 
-<h3 align="center"> Mileage:</h3>
+
 <a href="https://github.com/inspermileage/team-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inspermileage&repo=team-dashboard" />
 </a>
