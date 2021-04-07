@@ -28,6 +28,7 @@ Mileage</a>.</h3>
   <li>🧠 Atualmente estou aprendendo C, low-code e React</li>
   <li>Acostumado com Metodologia Ágil</li>
 </ul>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCMiguel&layout=compact&hide_border=true&theme=dracula)
 
 ### Projetos do Mileage em desenvolvimento 
 
