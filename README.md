@@ -1,14 +1,14 @@
 <strong>
 <h1 align="center"> Oi! Meu nome é Marcelo C Miguel 👋 </h1>
 <h3 align="center"> Atualmente estou no 5° semestre de Engenharia de Computação no Insper.</h3>
-<h4 align="center"> Diretor da área de Software do <a href="https://github.com/inspermileage">
+<h3 align="center"> Atual diretor da área de Software do <a href="https://github.com/inspermileage">
 Mileage</a>.</h3>
 </strong>
 <br />
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=F7D146)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=477EDD)
-![](https://img.shields.io/badge/-C-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
+![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=F7D146)
 ![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=8FBADD)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=DD5800)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1003DD)
@@ -35,11 +35,11 @@ Mileage</a>.</h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inspermileage&repo=team-dashboard" />
 </a>
 
-### Projetos em desenvolvimento
+<!-- ### Projetos acadêmicos em desenvolvimento
 
 <br />
 <h4>Não tenho repositórios públicos... Mas são projetos em C :)<h4>
-<br />
+<br /> -->
 
 ### Projetos que dão muito orgulho
 
