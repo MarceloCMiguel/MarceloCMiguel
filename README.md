@@ -6,7 +6,7 @@ Mileage</a>.</h3>
 </strong>
 <br />
 
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=F7D146)
+![](https://img.shields.io/badge/-Python-informational?)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=477EDD)
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=F7D146)
 ![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=8FBADD)
