@@ -1,6 +1,6 @@
 <strong>
 <h1 align="center"> Olá! Meu nome é Marcelo C Miguel 👋 </h1>
-<h3 align="center"> Atualmente estou no 5° semestre de Engenharia de Computação no Insper.</h3>
+<h3 align="center"> Atualmente estou no 7° semestre de Engenharia de Computação no Insper.</h3>
 <h3 align="center"> Atual diretor da área de Software do <a href="https://github.com/inspermileage">
 Mileage</a>.</h3>
 </strong>
