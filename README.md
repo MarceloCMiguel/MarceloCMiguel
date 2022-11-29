@@ -1,6 +1,6 @@
 <strong>
 <h1 align="center"> Olá! Meu nome é Marcelo C Miguel 👋 </h1>
-<h3 align="center"> Atualmente estou no 7° semestre de Engenharia de Computação no Insper.</h3>
+<h3 align="center"> Atualmente estou no 8° semestre de Engenharia de Computação no Insper.</h3>
 <br />
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=F7D146)
