@@ -18,23 +18,10 @@
   <li>Acostumado com Metodologia Ágil</li>
 </ul>
 
-
-### Projetos do Mileage em desenvolvimento 
-
-<a href="https://github.com/inspermileage/team-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inspermileage&repo=team-dashboard" />
-</a>
-
-<!-- ### Projetos acadêmicos em desenvolvimento
-
-<br />
-<h4>Não tenho repositórios públicos... Mas são projetos em C :)<h4>
-<br /> -->
-
 ### Projetos que dão muito orgulho
 
-<a href="https://github.com/sophiaks/projeto-minimo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaks&repo=projeto-minimo" />
+<a href="https://github.com/MarceloCMiguel/real-state-blockchain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloCMiguel&repo=real-state-blockchain" />
 </a>
 
 <a href="https://github.com/EikiYamashiro/robot20_PROJETO_1">
